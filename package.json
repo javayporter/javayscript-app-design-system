@@ -84,7 +84,7 @@
   "readme": "ERROR: No README data found!",
   "_id": "javayscript-app@0.1.0",
   "description": "Frontend design dependency",
-  "main": "/Users/javayporter/javayscript-app-design-system/dist/index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/javayporter/javayscript-app-design-system.git",
   "author": "Javay Porter <javayscript@gmail.com>",
   "license": "MIT"
