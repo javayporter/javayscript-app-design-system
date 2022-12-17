@@ -1,0 +1,8 @@
+.javayscript-button {
+  font-weight: 700;
+  border: 0;
+  border-radius: 2em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
