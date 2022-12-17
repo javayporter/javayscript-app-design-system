@@ -2,6 +2,8 @@
 
 ## Description
 
+Frontend dependency
+
 ## Install
 
 npm install
