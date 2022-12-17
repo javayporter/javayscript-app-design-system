@@ -6,7 +6,7 @@ Frontend dependency
 
 ## Install
 
-npm install
+npm i @javayporter/javayscript-app-design-system
 
 ## Usage
 
