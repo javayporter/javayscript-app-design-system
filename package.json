@@ -1,7 +1,7 @@
 {
-  "name": "javayscript-app",
+  "name": "@javayporter/javayscript-app-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -71,6 +71,7 @@
     "@storybook/preset-create-react-app": "^4.1.2",
     "@storybook/react": "^6.5.14",
     "@storybook/testing-library": "^0.0.13",
+    "auto": "^10.37.6",
     "babel-plugin-named-exports-order": "^0.0.2",
     "chromatic": "^6.13.1",
     "cross-env": "^7.0.3",
@@ -81,5 +82,10 @@
     "styled-components": "^5"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "javayscript-app@0.1.0"
+  "_id": "javayscript-app@0.1.0",
+  "description": "Frontend design dependency",
+  "main": "/Users/javayporter/javayscript-app-design-system/dist/index.js",
+  "repository": "https://github.com/javayporter/javayscript-app-design-system.git",
+  "author": "Javay Porter <javayscript@gmail.com>",
+  "license": "MIT"
 }
